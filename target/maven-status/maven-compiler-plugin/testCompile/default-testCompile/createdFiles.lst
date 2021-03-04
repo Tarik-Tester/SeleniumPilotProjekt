@@ -1,0 +1,7 @@
+com\sogeti\tools\WebListener.class
+com\sogeti\pages\HomePage.class
+com\sogeti\TestCases\ContactUsTest.class
+com\sogeti\base\Base.class
+com\sogeti\TestCases\AutomationSeiteTest.class
+com\sogeti\tools\ScreenshotUtil.class
+com\sogeti\pages\AutomationPage.class

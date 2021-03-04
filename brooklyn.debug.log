@@ -1,0 +1,232 @@
+2021-03-03 17:55:16,165 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-03 17:55:16,192 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 17:55:16,689 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 17:55:16,714 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 17:55:21,590 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 5399 ms
+2021-03-03 17:55:21,593 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - AllCityTest(java.lang.reflect.Method)(value(s): public void AllCityTest(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-03 17:58:39,960 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-03 17:58:39,986 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 17:58:40,272 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 17:58:40,300 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 17:58:45,216 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 5228 ms
+2021-03-03 17:58:45,223 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - AllCityTest(java.lang.reflect.Method)(value(s): public void AllCityTest(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-03 17:59:27,816 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 42592 ms
+2021-03-03 17:59:27,818 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-03 17:59:29,091 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 1274 ms
+2021-03-03 17:59:29,099 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 17:59:29,141 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 17:59:29,184 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 17:59:33,406 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4306 ms
+2021-03-03 17:59:33,408 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-03 17:59:35,875 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 2466 ms
+2021-03-03 17:59:35,876 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-03 17:59:36,747 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 872 ms
+2021-03-03 18:01:41,590 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:01:41,613 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:02:24,581 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:02:24,594 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:06:24,190 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-03 18:06:24,212 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:06:24,468 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:06:24,490 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:06:31,400 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 7190 ms
+2021-03-03 18:06:31,402 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-03 18:07:09,865 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 38460 ms
+2021-03-03 18:07:09,867 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-03 18:07:11,026 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 1160 ms
+2021-03-03 18:07:11,028 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:07:11,036 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:07:11,050 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:07:15,448 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4420 ms
+2021-03-03 18:07:15,448 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-03 18:07:17,941 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 2492 ms
+2021-03-03 18:07:17,942 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-03 18:07:18,756 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 815 ms
+2021-03-03 18:08:55,849 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-03 18:08:55,875 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:08:56,147 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:08:56,176 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:09:02,741 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 6867 ms
+2021-03-03 18:09:02,742 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - AllCityTest(java.lang.reflect.Method)(value(s): public void AllCityTest(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-03 18:09:39,906 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - AllCityTest(java.lang.reflect.Method)(value(s): public void AllCityTest(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 37160 ms
+2021-03-03 18:09:39,909 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-03 18:09:40,955 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 1047 ms
+2021-03-03 18:09:40,959 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:09:40,968 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:09:40,984 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:09:45,363 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4403 ms
+2021-03-03 18:09:45,363 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-03 18:09:47,784 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 2420 ms
+2021-03-03 18:09:47,784 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-03 18:09:48,600 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 816 ms
+2021-03-03 18:32:48,914 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-03 18:32:48,939 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:32:49,198 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:32:49,221 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:32:54,179 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 5238 ms
+2021-03-03 18:32:54,181 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-03 18:33:35,987 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 41802 ms
+2021-03-03 18:33:35,989 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-03 18:33:37,019 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 1031 ms
+2021-03-03 18:33:37,022 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-03 18:33:37,031 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-03 18:33:37,056 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-03 18:33:41,524 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4502 ms
+2021-03-03 18:33:41,524 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-03 18:33:43,954 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 2429 ms
+2021-03-03 18:33:43,954 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-03 18:33:44,722 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 768 ms
+2021-03-04 09:32:34,943 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 09:32:34,972 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 09:33:19,978 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 09:33:19,997 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 09:38:12,440 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-04 09:38:12,464 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-04 09:38:12,779 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 09:38:12,817 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 09:38:17,904 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 5441 ms
+2021-03-04 09:38:17,905 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-04 09:38:56,289 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 38379 ms
+2021-03-04 09:38:56,293 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-04 09:38:57,241 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 949 ms
+2021-03-04 09:38:57,243 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-04 09:38:57,253 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 09:38:57,268 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 09:39:01,660 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4417 ms
+2021-03-04 09:39:01,660 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-04 09:39:04,685 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 3025 ms
+2021-03-04 09:39:04,685 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-04 09:39:05,434 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 748 ms
+2021-03-04 10:19:38,577 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-04 10:19:38,602 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-04 10:19:38,921 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 10:19:38,950 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 10:19:45,058 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.acceptCookies(java.lang.String)(value(s): "chrome") finished in 6455 ms
+2021-03-04 10:19:45,060 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-04 10:20:24,592 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCity(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 39530 ms
+2021-03-04 10:20:24,593 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-04 10:20:25,566 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 974 ms
+2021-03-04 10:20:25,569 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-04 10:20:25,579 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 10:20:25,597 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 10:20:29,688 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 4119 ms
+2021-03-04 10:20:29,689 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-04 10:20:32,221 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException) finished in 2532 ms
+2021-03-04 10:20:32,221 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-04 10:20:33,682 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 1461 ms
+2021-03-04 11:39:27,030 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 11:39:27,056 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 11:47:31,403 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 11:47:31,429 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 11:58:19,448 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 11:58:19,472 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 11:59:28,600 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 11:59:28,624 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:02:46,427 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:02:46,456 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:04:35,859 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:04:35,884 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:28:05,146 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:28:05,172 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:33:09,995 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:33:10,019 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:45:00,082 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:45:00,106 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:56:50,179 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:56:50,207 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 12:58:24,988 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 12:58:25,018 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 13:03:28,722 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 13:03:28,744 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 13:04:36,625 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 13:04:36,659 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 13:16:04,067 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "1" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-04 13:16:04,091 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome")
+2021-03-04 13:16:04,352 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 13:16:04,380 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 13:16:09,349 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.AcceptCookies(java.lang.String)(value(s): "chrome") finished in 5260 ms
+2021-03-04 13:16:09,350 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationPage(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-04 13:23:50,622 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 13:23:50,664 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:10:12,500 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:10:12,525 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:12:48,994 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:12:49,019 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:13:59,984 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:14:00,023 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:16:18,003 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:16:18,029 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:24:35,678 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:24:35,701 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:27:32,484 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:27:32,509 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:29:05,867 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:29:05,893 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:30:08,472 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:30:08,498 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:32:38,302 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:32:38,329 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:40:14,420 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:40:14,451 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:45:34,747 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:45:34,771 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:57:13,179 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:57:13,202 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 14:59:41,349 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 14:59:41,374 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 15:33:34,681 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 15:33:34,704 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 15:34:55,076 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 15:34:55,101 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 15:37:51,923 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 15:37:51,951 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 15:40:42,329 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 15:40:42,357 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:08:10,275 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:08:10,300 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:11:10,067 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:11:10,094 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:12:05,423 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:12:05,439 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:17:27,734 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Chrome" containing "2" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-04 16:17:27,761 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.StartBrowser(java.lang.String)(value(s): "chrome")
+2021-03-04 16:17:28,047 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:17:28,074 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:17:32,683 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.CountryTest.StartBrowser(java.lang.String)(value(s): "chrome") finished in 4926 ms
+2021-03-04 16:17:32,688 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCountry(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCountry(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException)
+2021-03-04 16:18:08,577 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.CountryTest.AllCountry(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.CountryTest.AllCountry(java.lang.reflect.Method) throws java.io.IOException,java.lang.InterruptedException) finished in 35889 ms
+2021-03-04 16:18:08,579 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close()
+2021-03-04 16:18:09,585 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.CountryTest.close() finished in 1007 ms
+2021-03-04 16:18:09,593 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.StartBrowser(java.lang.String)(value(s): "chrome")
+2021-03-04 16:18:09,610 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:18:09,629 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:18:13,841 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.StartBrowser(java.lang.String)(value(s): "chrome") finished in 4249 ms
+2021-03-04 16:18:13,841 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-04 16:18:16,320 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Chrome" - com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method) throws java.io.IOException) finished in 2478 ms
+2021-03-04 16:18:16,320 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-04 16:18:17,060 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Chrome" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 740 ms
+2021-03-04 16:22:19,927 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:22:19,952 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 16:23:02,905 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 16:23:02,918 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 18:50:29,298 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 18:50:29,353 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 18:50:40,443 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 18:50:40,454 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 18:54:49,641 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 18:54:49,672 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 18:56:36,753 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 18:56:36,776 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 19:23:35,265 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG RUNNING: Suite: "End to End Firefox" containing "1" Tests (config: C:\Users\tdkhirec\IdeaProjects\sogeti.com\testng.xml)
+2021-03-04 19:23:35,299 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Firefox" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.StartBrowser(java.lang.String)(value(s): "ff")
+2021-03-04 19:23:50,215 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Firefox" - @BeforeMethod com.sogeti.TestCases.AutomationSeiteTest.StartBrowser(java.lang.String)(value(s): "ff") finished in 14916 ms
+2021-03-04 19:23:50,218 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING: "End to End Firefox" - com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method) throws java.io.IOException)
+2021-03-04 19:23:55,790 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED: "End to End Firefox" - com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method)(value(s): public void com.sogeti.TestCases.AutomationSeiteTest.automationTest(java.lang.reflect.Method) throws java.io.IOException) finished in 5572 ms
+2021-03-04 19:23:55,792 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG INVOKING CONFIGURATION: "End to End Firefox" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close()
+2021-03-04 19:23:56,920 INFO  o.a.b.t.s.LoggingVerboseReporter [main]: TESTNG PASSED CONFIGURATION: "End to End Firefox" - @AfterMethod com.sogeti.TestCases.AutomationSeiteTest.close() finished in 1128 ms
+2021-03-04 19:43:08,892 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 19:43:08,924 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 19:46:12,997 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 19:46:13,016 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+2021-03-04 19:51:39,427 INFO  i.g.b.wdm.WebDriverManager [main]: Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+2021-03-04 19:51:39,469 INFO  i.g.b.wdm.WebDriverManager [main]: Exporting webdriver.chrome.driver as C:\Users\tdkhirec\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe

@@ -1,0 +1,7 @@
+brooklyn.catalog:
+    version: "1.0-SNAPSHOT"
+    itemType: entity
+    items:
+    - id: org.TestCases.MySample
+      item:
+        type: org.TestCases.MySample

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="End to End Chrome"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="170,203">
+    <properties></properties>
+
+
+
+            <testcase
+                name="AllCountry"
+                time="170,203"
+                classname="com.sogeti.TestCases.CountryTest">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/tdkhirec/IdeaProjects/sogeti.com"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2,701">
+    <properties></properties>
+
+
+
+            <testcase
+                name="automationPage"
+                time="2,701"
+                classname="AutomationSeite">
+            </testcase>
+</testsuite>

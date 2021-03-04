@@ -1,0 +1,99 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Sample Apache Brooklyn Project org.example:sogeti.com v1.0-SNAPSHOT
+
+
+From: 'an unknown organization'
+  - FindBugs-jsr305 (http://findbugs.sourceforge.net/) com.google.code.findbugs:jsr305:jar:1.3.9
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.6
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - error-prone annotations (http://nexus.sonatype.org/oss-repository-hosting.html/error_prone_parent/error_prone_annotations) com.google.errorprone:error_prone_annotations:jar:2.1.3
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:25.0-jre
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - J2ObjC Annotations (https://github.com/google/j2objc/) com.google.j2objc:j2objc-annotations:jar:1.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - OkHttp (https://github.com/square/okhttp/okhttp) com.squareup.okhttp3:okhttp:jar:3.11.0
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Okio (https://github.com/square/okio/okio) com.squareup.okio:okio:jar:1.14.0
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - WebDriverManager (https://github.com/bonigarcia/webdrivermanager) io.github.bonigarcia:webdrivermanager:jar:4.3.1
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Byte Buddy (without dependencies) (http://bytebuddy.net/byte-buddy) net.bytebuddy:byte-buddy:jar:1.8.15
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Checker Qual (http://checkerframework.org) org.checkerframework:checker-compat-qual:jar:2.0.0
+    License: GNU General Public License, version 2 (GPL2), with the classpath exception  (http://www.gnu.org/software/classpath/license.html)    License: The MIT License  (http://opensource.org/licenses/MIT)
+  - Java archiving library (http://rauschig.org/jarchivelib) org.rauschig:jarchivelib:bundle:1.1.0
+    License: Apache 2  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-api (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-api:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-chrome-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-chrome-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-edge-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-edge-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-firefox-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-firefox-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-ie-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-ie-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-java (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-java:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-opera-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-opera-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-remote-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-remote-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-safari-driver (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-safari-driver:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - selenium-support (http://www.seleniumhq.org/) org.seleniumhq.selenium:selenium-support:jar:3.141.59
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - Apache POI (http://poi.apache.org/) org.apache.poi:poi:jar:4.1.2
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Codehaus' (http://codehaus.org)
+  - Animal Sniffer Annotations (http://mojo.codehaus.org/animal-sniffer/animal-sniffer-annotations) org.codehaus.mojo:animal-sniffer-annotations:jar:1.14
+    License: MIT license  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Jonathan Hedley' (https://jhy.io/)
+  - jsoup Java HTML Parser (https://jsoup.org/) org.jsoup:jsoup:jar:1.13.1
+    License: The MIT License  (https://jsoup.org/license)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.30
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Commons Exec (http://commons.apache.org/proper/commons-exec/) org.apache.commons:commons-exec:jar:1.3
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Math (http://commons.apache.org/proper/commons-math/) org.apache.commons:commons-math3:jar:3.6.1
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Commons Codec (https://commons.apache.org/proper/commons-codec/) commons-codec:commons-codec:jar:1.13
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons IO (https://commons.apache.org/proper/commons-io/) commons-io:commons-io:jar:2.8.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Collections (https://commons.apache.org/proper/commons-collections/) org.apache.commons:commons-collections4:jar:4.4
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Compress (https://commons.apache.org/proper/commons-compress/) org.apache.commons:commons-compress:jar:1.20
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Commons Lang (https://commons.apache.org/proper/commons-lang/) org.apache.commons:commons-lang3:jar:3.11
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpClient (https://hc.apache.org/httpcomponents-client-5.0.x/) org.apache.httpcomponents.client5:httpclient5:jar:5.0.3
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpComponents Core HTTP/1.1 (https://hc.apache.org/httpcomponents-core-5.0.x/) org.apache.httpcomponents.core5:httpcore5:jar:5.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache HttpComponents Core HTTP/2 (https://hc.apache.org/httpcomponents-core-5.0.x/) org.apache.httpcomponents.core5:httpcore5-h2:jar:5.0.2
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Zaxxer.com' (https://github.com/brettwooldridge/SparseBitSet)
+  - SparseBitSet (https://github.com/brettwooldridge/SparseBitSet) com.zaxxer:SparseBitSet:jar:1.2
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

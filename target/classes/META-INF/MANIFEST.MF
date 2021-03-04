@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1614882210684
+Brooklyn-Feature-Name: Sample Apache Brooklyn Project org.example:sogeti
+ .com v1.0-SNAPSHOT
+Build-Jdk: 15.0.1
+Built-By: TDKHIREC
+Bundle-Description: Sample Apache Brooklyn Project for Java entity devel
+ opment, and OSGi bundle generation.
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Sample Apache Brooklyn Project org.example:sogeti.com v1.0-
+ SNAPSHOT
+Bundle-SymbolicName: org.example.sogeti.com
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Implementation-Branch: UNKNOWN_BRANCH
+Implementation-Title: Sample Apache Brooklyn Project org.example:sogeti.
+ com v1.0-SNAPSHOT
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.example
+Implementation-Version: 1.0-SNAPSHOT
+Originally-Created-By: Apache Maven Bundle Plugin
+Specification-Title: Sample Apache Brooklyn Project org.example:sogeti.c
+ om v1.0-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 1.0-SNAPSHOT
+Tool: Bnd-3.2.0.201605172007
